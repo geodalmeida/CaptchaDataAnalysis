@@ -7,7 +7,7 @@ A base de dados utilizada é a CAPTCHA Images do Kaggle, que contém várias ima
 ### Descrição da base de dados escolhida
 A base **"CAPTCHA Images"** disponibiliza uma coleção de imagens de CAPTCHAs com diferentes estilos e níveis de distorção, representando desafios comuns em sistemas de autenticação.
 
-[Link para a base no Kaggle](https://www.kaggle.com/datasets/fournierp/captcha-images)
+[Link para a base de dados no Kaggle](https://www.kaggle.com/datasets/fournierp/captcha-images)
 
 ---
 
