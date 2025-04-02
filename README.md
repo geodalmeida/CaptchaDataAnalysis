@@ -19,12 +19,12 @@ Para este projeto, utilizamos a técnica de **classificação**, pois o objetivo
 - Cada imagem contém uma sequência de letras e números, e o modelo precisa aprender a identificar corretamente quais caracteres estão presentes.
 - Como temos um conjunto limitado de possíveis respostas (as letras de A-Z e os números de 0-9), a classificação funciona bem para esse tipo de problema.
 
-Além disso, temos o uso de **Redes Neurais Convolucionais (CNNs)**, elas também são muito usadas nesse tipo de tarefa, pois conseguem identificar padrões visuais automaticamente, com formatos das letras e números, mesmo quando há distorções ou ruídos na imagem. 
+Além disso, temos o uso de **Redes Neurais Convolucionais (CNNs)**, elas também são muito utilizadas nesse tipo de tarefa, pois conseguem identificar padrões visuais automaticamente, com formatos das letras e números, mesmo quando há distorções ou ruídos na imagem. 
 Isso ajuda o modelo a melhorar a precisão e tornar o reconhecimento de CAPTCHAs mais eficiente.
 
 ---
 
-### Explicação breve dos objetivos que pretende alcançar com a análise proposta. 
+### Explicação breve dos objetivos da análise 
 
 O principal objetivo dessa análise é **ensinar um modelo de Machine Learning a reconhecer os caracteres dos CAPTCHAs**. 
 
