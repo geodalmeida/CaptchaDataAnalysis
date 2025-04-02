@@ -2,6 +2,7 @@
 Este repositório é um estudo sobre como reconhecer e analisar imagens de CAPTCHA usando Machine Learning. O objetivo é treinar um modelo para identificar os caracteres presentes nas imagens.
 A base de dados utilizada é a CAPTCHA Images do Kaggle, que contém várias imagens de CAPTCHAs com diferentes estilos e distorções.
 
+###
 
 ### Descrição da base de dados escolhida
 A base "CAPTCHA Images" disponibiliza uma coleção de imagens de CAPTCHAs com diferentes estilos e níveis de distorção, representando desafios comuns em sistemas de autenticação.
